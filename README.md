@@ -1,4 +1,5 @@
 # Project-2-Merge-Sort
+https://www.patika.dev/tr
 
 1) Merge Sort türü aşamaları: Gösterimde dizinin her bir elemanı önce tek kalacak şekilde parçalanır. Daha sonra tekrar gruplanır. Gruplama esnasında dizilerdeki küçük elemanlar sol başa gelecek şekilde düzenlenir.
 
